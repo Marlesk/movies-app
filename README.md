@@ -10,6 +10,8 @@ It uses the **[OMDb API](https://www.omdbapi.com/)** to fetch movie data such as
 Search for any movie by typing its title and instantly view details such as its IMDb rating, genre, and plot.  
 Click **“More”** to see extended information like director, cast, production, and more.
 
+🔗 **Live Demo:** [https://movies-app.vercel.app](https://movies-app-kohl-six.vercel.app/)
+
 ---
 
 ## 🧠 Features
