@@ -21,7 +21,7 @@ function getMovie(title) {
 }
 
 function fetchMovieFromApi(title) {
-  axios.get(`http://www.omdbapi.com/?t=${title}&apikey=801066b`)
+  axios.get(`https://www.omdbapi.com/?t=${title}&apikey=801066b`)
        .then(response => { 
           handleResults(response.data)
         })
